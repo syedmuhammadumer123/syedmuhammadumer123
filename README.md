@@ -1,0 +1,19 @@
+- 👋 # Hi, I’m Syed Muhammad Umar!
+
+I'm a passionate software developer with a focus on web development and coding. Currently, I'm learning new technologies like **Flutter** and **Node.js** to improve my skills. I enjoy solving complex problems and contributing to open-source projects.
+- 🌱 I’m currently learning **Flutter** and **Node.js**.
+- 👨‍💻 I'm interested in **Web Development**, **App Development**, and **Digital Marketing**.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🤝 I’m looking to collaborate on **web development** and **mobile app development** projects.
+- 📫 How to reach me: **syedumar00313@gmail.com**
+- ⚡ Fun fact: I love cooking and experimenting with new recipes!
+
+<!---
+syedmuhammadumer123/syedmuhammadumer123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
